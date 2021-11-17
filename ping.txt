@@ -1,0 +1,12 @@
+
+Disparando 8.8.8.8 com 32 bytes de dados:
+Resposta de 8.8.8.8: bytes=32 tempo=5ms TTL=116
+Resposta de 8.8.8.8: bytes=32 tempo=8ms TTL=116
+Resposta de 8.8.8.8: bytes=32 tempo=5ms TTL=116
+Resposta de 8.8.8.8: bytes=32 tempo=8ms TTL=116
+
+Estat¡sticas do Ping para 8.8.8.8:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 5ms, M ximo = 8ms, M‚dia = 6ms
